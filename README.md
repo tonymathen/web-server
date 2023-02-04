@@ -1,9 +1,5 @@
 
-## Student Name : Tony Mathen
-## Student Code : W1629791
-## Assignment Name : COEN 317: Distributed Systems Winter 22 : Programming Assignment 1
-
-## Date - `02/02/2022`
+## Web Server
 
 ## Description 
 `Server.py is python program which implements a simple web server which handles GET requests and minimal number of file types like jpg, gif etc. The web server supports multithreading as well supports 4 HTTP status codes`
